@@ -1,0 +1,6 @@
+Epic_ID,Title,Description,Business_Value,Effort_Estimate,Priority,Status,Epic_Owner,Value_Stream,Expected_ROI,Regulatory_Driver,Quarter
+MR-001,Real-time VaR Calculation Platform,Implement real-time Value at Risk calculations across all trading desks,95,8,High,In Progress,Sarah Chen,Market Risk Technology,2.5,Basel III,Q4 2025
+MR-002,Stress Testing Automation Framework,Automate regulatory stress testing processes and reporting,85,13,High,Planning,Michael Rodriguez,Risk Analytics,1.8,CCAR,Q1 2026
+MR-003,Counterparty Risk Dashboard,Develop real-time counterparty exposure monitoring dashboard,75,5,Medium,Backlog,Jennifer Liu,Counterparty Risk,1.4,SA-CCR,Q2 2026
+MR-004,Market Data Quality Enhancement,Improve market data quality controls and validation processes,70,8,Medium,In Progress,David Thompson,Market Risk Technology,1.6,FRTB,Q4 2025
+MR-005,ESG Risk Integration,Integrate ESG risk factors into existing risk models,80,13,High,Planning,Emma Williams,Risk Analytics,2.2,ECB Climate Stress Test,Q1 2026
