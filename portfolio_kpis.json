@@ -1,0 +1,25 @@
+{
+  "Portfolio_Health": {
+    "On_Track_Epics": 60,
+    "At_Risk_Epics": 30,
+    "Blocked_Epics": 10,
+    "Overall_Velocity_Trend": "Stable",
+    "Budget_Utilization": 78,
+    "Resource_Utilization": 85,
+    "Quality_Score": 4.1
+  },
+  "Delivery_Metrics": {
+    "Features_Delivered_This_PI": 23,
+    "Features_Planned_This_PI": 28,
+    "Delivery_Predictability": 82,
+    "Cycle_Time_Days": 28,
+    "Lead_Time_Days": 45
+  },
+  "Risk_Indicators": {
+    "High_Risk_Items": 5,
+    "Medium_Risk_Items": 12,
+    "Low_Risk_Items": 15,
+    "Risks_Mitigated_This_Month": 3,
+    "New_Risks_This_Month": 2
+  }
+}
